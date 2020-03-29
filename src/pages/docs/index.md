@@ -5,16 +5,10 @@ menus:
     title: Docs
     weight: 2
 template: docs
----
+weight: 
+excerpt: ''
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
+---
+बचपन में बारिश के पानी में कागज़ की कश्ती बनाकर बहाते समय एक विश्वास मन में होता था कि ये तैर कर जाएगी। ये नही सोचते थे कि कागज की कश्ती पानी में कब तक टिकेगी। आज बचपन के इस मासूम विश्वास ने ये तो सिखा दिया है कि हौंसले और आत्मविश्वास से मैदान जीता जाता है चाहे आपके पास साधन कमजोर हो।
 
 ***
-
-Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
-
-Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus. 
-
-[Morbi ac vulputate enim](https://stackbit.com)
-
-Maecenas metus justo, imperdiet vel velit et, iaculis consectetur risus. Etiam venenatis odio quis vulputate interdum. Nulla facilisi. Pellentesque nibh nibh, elementum sed mauris vel, commodo pretium magna.
