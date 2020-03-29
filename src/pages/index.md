@@ -8,7 +8,7 @@ sections:
   component: HeroBlock
   content: "कागज की कश्ती बहाकर बचपन को तो बहका दिया,  \nआओं अब कागज पर कुछ शब्द लिखकर
     मन को महका दे...।"
-  image: images/5.jpg
+  image: "/images/paper-leaf-line-pen-wallpaper.jpg"
   actions:
   - label: जारी रखें
     url: docs/index.html
