@@ -10,7 +10,7 @@ sections:
     मन को महका दे...।"
   image: images/5.jpg
   actions:
-  - label: Get Started
+  - label: जारी रखें
     url: docs/index.html
 - type: featuresblock
   template: featuresblock
