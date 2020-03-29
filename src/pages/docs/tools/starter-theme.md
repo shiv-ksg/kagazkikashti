@@ -2,17 +2,18 @@
 title: Starter Theme
 weight: 1
 template: docs
----
+excerpt: ''
 
+---
 <div class="note">
-  <strong>Note:</strong> This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
+<strong>Note:</strong> This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
 </div>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget nullam non nisi est. Enim diam vulputate ut pharetra sit amet. Malesuada fames ac turpis egestas integer eget aliquet nibh praesent. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Id leo in vitae turpis massa sed elementum. Sed elementum tempus egestas sed sed risus pretium quam. Euismod elementum nisi quis eleifend quam adipiscing vitae proin sagittis.
 
 ## Node
 
-This command installs a package, and any packages that it depends on. If the package has a package-lock or shrinkwrap file, the installation of dependencies will be driven by that, with an npm-shrinkwrap.json taking precedence if both files exist. See package-lock.json and npm-shrinkwrap.
+**अस्वीकरण :** सूचना को यथासंभव सही रूप में उपलब्ध कराने का हर संभव प्रयास किया गया है | इस वेबसाइट पर उपलब्ध जानकारी में अशुद्धता के कारण किसी भी व्यक्ति को होने वाली किसी भी प्रकार की हानि के लिए केन्द्रीय मृदा एवं सामग्री अनुसंधानशाला,
 
 Tellus integer feugiat scelerisque varius morbi enim. Mattis ullamcorper velit sed ullamcorper. Risus nullam eget felis eget nunc lobortis mattis. Elementum facilisis leo vel fringilla. Sit amet venenatis urna cursus eget nunc scelerisque viverra mauris. Adipiscing elit ut aliquam purus sit amet luctus venenatis. Diam ut venenatis tellus in metus vulputate eu scelerisque felis. Dignissim convallis aenean et tortor at risus. Nulla porttitor massa id neque aliquam vestibulum morbi blandit cursus. Aliquam sem et tortor consequat id porta nibh venenatis. Vestibulum morbi blandit cursus risus at ultrices mi tempus imperdiet. Cras sed felis eget velit aliquet sagittis. Adipiscing diam donec adipiscing tristique risus nec feugiat in fermentum.
 
