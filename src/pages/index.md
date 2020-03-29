@@ -17,12 +17,13 @@ sections:
   section_id: features
   component: FeaturesBlock
   featureslist:
-  - title: Documentation
-    content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-      a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
-      ut tellus. Vivamus rhoncus mattis varius.
+  - title: समाचार
+    content: |-
+      आज रात सिन्धी कालोनी
+
+       भगवान झूलेलाल मन्दिर मे चोर ने ताले तोडकर फ़िर दान पात्र पर कीया हाथ साफ....
     actions:
-    - label: Get Started
+    - label: " और"
       url: docs/index.html
   - title: Blog
     content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
