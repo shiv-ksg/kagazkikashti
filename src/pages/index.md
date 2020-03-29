@@ -25,11 +25,11 @@ sections:
     actions:
     - label: " और"
       url: docs/index.html
-  - title: Blog
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+  - title: ब्लॉग
+    content: "    अब से विनिर्माण, मूंगफली की चटनी डाल करने के लिए। अब कोई \n    भी
+      प्रोटीन प्रोटीन है। पोषण माइक्रोफोन गर्भवती और सुविधा फुटबॉल।"
     actions:
-    - label: View Posts
+    - label: पोस्ट देखें
       url: blog/index.html
   - title: Style Guides
     content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
