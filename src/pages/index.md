@@ -26,17 +26,10 @@ sections:
     - label: " और"
       url: docs/index.html
   - title: ब्लॉग
-    content: "    अब से विनिर्माण, मूंगफली की चटनी डाल करने के लिए। अब कोई भी प्रोटीन
-      प्रोटीन है। पोषण माइक्रोफोन गर्भवती और सुविधा फुटबॉल।"
+    content: अब से विनिर्माण, मूंगफली की चटनी डाल करने के लिए। अब कोई भी प्रोटीन प्रोटीन
+      है। पोषण माइक्रोफोन गर्भवती और सुविधा फुटबॉल।
     actions:
     - label: पोस्ट देखें
-      url: blog/index.html
-  - title: Style Guides
-    content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-      a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
-      ut tellus. Vivamus rhoncus mattis varius.
-    actions:
-    - label: Learn More
       url: "/style-guide.html"
   title: ''
   subtitle: ''
